@@ -1,6 +1,24 @@
-# Data Science Project Boilerplate
+# 🧬 Predicting Diabetes with a Random Forest
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+This project focuses on predicting whether a patient has diabetes using diagnostic health data. By applying a Random Forest algorithm, we aim to build interpretable and accurate classification models. 
+
+## 📚 Overview
+
+Utilizing a medical dataset from the **National Institute of Diabetes and Digestive and Kidney Diseases** our goal is to determine if a patient is lilkely to be diabetic.
+
+## 📁 Dataset
+
+📊 Features:
+
+- `Pregnancies`: Number of pregnancies
+- `Glucose`: Plasma glucose concentration
+- `BloodPressure`: Diastolic blood pressure
+- `SkinThickness`: Triceps skin fold thickness
+- `Insulin`: 2-hour serum insulin
+- `BMI`: Body mass index
+- `DiabetesPedigreeFunction`: Genetic likelihood of diabetes
+- `Age`: Age of the patient
+- `Outcome`: Diabetes diagnosis (0 = No, 1 = Yes)
 
 ## Structure
 
